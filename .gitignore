@@ -131,3 +131,4 @@ dist
 
 # exclude backend env
 backend/env/
+backend/__pycache__/
